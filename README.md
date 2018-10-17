@@ -10,3 +10,10 @@ The vibrating damped system is given below:
 figure below shows the reponse of mass'm' in the problem described above:
 
 ![photo_1](https://user-images.githubusercontent.com/37806285/47096371-0d9b1b00-d1fd-11e8-9e18-6bc14c9fc9f3.png)
+
+
+
+figure below shows the plot of non-dimensional magnitude ratio vs frequency ratio(w/wn)
+![figure_1](https://user-images.githubusercontent.com/37806285/47107393-38926880-d217-11e8-9929-94239a37404d.png)
+
+
