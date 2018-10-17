@@ -15,7 +15,7 @@ def model(x,t): # Function that defines the differential equation of the problem
 t = np.linspace(0,15,1000) 
 
 sol = odeint(model,[0.1,0.04],t) #solver function that solves the differential equation defined above
-print (sol[:,1])
+
 
 plt.plot(t,sol[:,1])
 plt.xlabel("time(seconds)")
